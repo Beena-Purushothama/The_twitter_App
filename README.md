@@ -9,4 +9,11 @@ This has been build using react and Redux.
 * clone the Project - `git@github.com:udacity/The_Twitter_App.git`
 * install the dependencies - `npm install`
 
-## Contributing
+## Twitter Home Page View
+![](HomePage.png)
+
+## New Tweet Page View
+![](NewTweet.png)
+
+## Comments Page View
+![](Comments.png)
